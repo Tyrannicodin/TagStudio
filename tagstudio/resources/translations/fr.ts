@@ -26,12 +26,12 @@
     <message>
       <location filename="tagstudio/src/qt/ui/home.ui" line="156"/>
       <source>&lt;</source>
-      <translation type="unfinished">&lt;</translation>
+      <translation>&lt;</translation>
     </message>
     <message>
       <location filename="tagstudio/src/qt/ui/home.ui" line="182"/>
       <source>&gt;</source>
-      <translation type="unfinished">&gt;</translation>
+      <translation>&gt;</translation>
     </message>
     <message>
       <location filename="tagstudio/src/qt/ui/home.ui" line="201"/>
